@@ -5,4 +5,7 @@ class PagesController < ApplicationController
   def contract
   end
 
+  def about
+  end
+
 end
